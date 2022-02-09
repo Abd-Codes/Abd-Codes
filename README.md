@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abd-Codes
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on PHP
+- 👀 I’m a Web Developer
+- 🌱 I’m currently learning Mobile app development
 - 📫 How to reach me ...
 
 <!---
