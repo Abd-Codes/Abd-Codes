@@ -2,7 +2,7 @@
 - 💻 I’m a Front-End Developer
 - 🖥️ I’m a Computer Science Student
 - 📫 How to reach me ...
-- 🔗 abdullahfiaz.netlify.com
+- 🔗 https://abdullahfiaz.netlify.app/
 
 <!---
 Abd-Codes/Abd-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
